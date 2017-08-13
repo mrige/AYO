@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ayo The Maze Runner", "Ayo The Maze Runner.csproj", "{CA9DED83-A507-B05C-50F3-F25187F2F8C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ayo The Maze Runner.Editor", "Ayo The Maze Runner.Editor.csproj", "{5259AC9C-1004-06C6-3C6B-066E3E680708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA9DED83-A507-B05C-50F3-F25187F2F8C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9DED83-A507-B05C-50F3-F25187F2F8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9DED83-A507-B05C-50F3-F25187F2F8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9DED83-A507-B05C-50F3-F25187F2F8C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5259AC9C-1004-06C6-3C6B-066E3E680708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5259AC9C-1004-06C6-3C6B-066E3E680708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5259AC9C-1004-06C6-3C6B-066E3E680708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5259AC9C-1004-06C6-3C6B-066E3E680708}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
